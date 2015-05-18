@@ -27,4 +27,3 @@ You can uncomment #SOURCES := $(wildcard *.cpp) if you want to compile it and yo
 ### Who do I talk to? ###
 
 * The members of the group.
-* Kazi will most likely be unhelpful... Talk to a different CS professor.
